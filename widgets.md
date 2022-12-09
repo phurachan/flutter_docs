@@ -3,6 +3,8 @@
 ## Layout
 ### Main
 - [Scaffold](https://api.flutter.dev/flutter/material/Scaffold-class.html)
+- [SafeArea](https://api.flutter.dev/flutter/widgets/SafeArea-class.html)
+- [WillPopScope](https://api.flutter.dev/flutter/widgets/WillPopScope-class.html)
 ### Top
 - [AppBar](https://api.flutter.dev/flutter/material/AppBar-class.html)
 - [PreferredSize](https://api.flutter.dev/flutter/widgets/PreferredSize-class.html)

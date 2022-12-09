@@ -11,7 +11,7 @@
 ## Badge
 - [badges](https://pub.dev/packages/badges)
 
-## Badge
+## Maps
 - [google_maps_flutter](https://pub.dev/packages/google_maps_flutter)
 
 ## Toast
