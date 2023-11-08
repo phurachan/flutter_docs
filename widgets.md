@@ -1,4 +1,4 @@
-# Widgets
+# General Widgets
 
 ## Layout
 ### Main
